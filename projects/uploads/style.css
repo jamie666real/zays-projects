@@ -99,3 +99,8 @@ body {
   background: linear-gradient(135deg, #5a9cff, #2d7fff);
   color: white;
 }
+
+.button-secondary {
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: var(--text);
+}
